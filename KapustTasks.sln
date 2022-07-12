@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FailProcess", "FailProcess\FailProcess.csproj", "{6A084705-E691-44CE-9448-85CFE95C71DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FailProcess", "FailProcess\FailProcess.csproj", "{6A084705-E691-44CE-9448-85CFE95C71DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationU", "OperationU\OperationU.csproj", "{D9542256-BA9D-4AC5-97FE-E3259803FF4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperationU", "OperationU\OperationU.csproj", "{D9542256-BA9D-4AC5-97FE-E3259803FF4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToBeOrNotToBe", "ToBeOrNotToBe\ToBeOrNotToBe.csproj", "{AC2654B9-476B-450C-AF91-0CF99E9C1697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToBeOrNotToBe", "ToBeOrNotToBe\ToBeOrNotToBe.csproj", "{AC2654B9-476B-450C-AF91-0CF99E9C1697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformToElephant", "TransformToElephant\TransformToElephant.csproj", "{06DA9AF0-85E3-4045-B8F6-28A02A863CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TransformToElephant", "TransformToElephant\TransformToElephant.csproj", "{06DA9AF0-85E3-4045-B8F6-28A02A863CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{44DA1280-632E-4643-A497-1B2D69BCFDAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{06DA9AF0-85E3-4045-B8F6-28A02A863CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06DA9AF0-85E3-4045-B8F6-28A02A863CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06DA9AF0-85E3-4045-B8F6-28A02A863CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DA1280-632E-4643-A497-1B2D69BCFDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DA1280-632E-4643-A497-1B2D69BCFDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DA1280-632E-4643-A497-1B2D69BCFDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DA1280-632E-4643-A497-1B2D69BCFDAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
